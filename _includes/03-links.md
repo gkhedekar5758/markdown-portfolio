@@ -1,1 +1,1 @@
-[gtihub profile] (https://google.com)
+[gtihub profile](https://google.com)
